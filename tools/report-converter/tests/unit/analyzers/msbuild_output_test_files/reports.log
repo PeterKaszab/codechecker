@@ -1,0 +1,2 @@
+   1:7>files/Sample.cs(9,9): warning CS0219: The variable 'y' is assigned but its value is never used [files/files.csproj]
+   1:7>files/Sample.cs(5,15): warning CS0169: The field 'Sample.x' is never used [files/files.csproj]
